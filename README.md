@@ -1,2 +1,2 @@
-# instagram-landing-page
+# Instagram-landing-page
 Project made using html and css
